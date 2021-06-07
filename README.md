@@ -16,3 +16,12 @@ G-code pour ventilateur premier prix que vous pouvez acheter dans les supermarch
 </br>
 
 ![Screenshot](https://github.com/joly534/3D-code-pied-ventilateur-34x20/blob/main/3dprint.png)
+<h2>impression finie</h2>
+</br>
+
+
+![Screenshot](https://github.com/joly534/3D-code-pied-ventilateur-34x20/blob/main/printfinish.jpg)
+<h2>installation</h2>
+</br>
+
+![Screenshot](https://github.com/joly534/3D-code-pied-ventilateur-34x20/blob/main/installation.jpg)
